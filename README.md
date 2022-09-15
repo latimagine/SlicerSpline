@@ -32,7 +32,7 @@ if you need a fast processing, you should increase the voxel size using "resampl
 
 4- The module is able to interpolate in different direction. if you select wrong direction, it may sent error, so you need to select correct direction. 
 
-5- Outputs for this module are the interpolated labelmap and overlap wish shows how much the labels cover each others. overlap might be very smal and may not appear. If overlap is too much you may need to have more manual slices to label before using this module.
+5- Outputs for this module are the interpolated labelmap and overlap wish shows how much the labels cover each others. Overlap might be very small and may not appear. If overlap is too much you may need to have more manual slices to label before using this module.
 
 6- press apply and wait to finish the process which may takes a few to several minutes depending on resolution of the image.
 
@@ -42,7 +42,7 @@ if you need a fast processing, you should increase the voxel size using "resampl
 
 [![Demo CountPages alpha](https://github.com/latimagine/SlicerSpline/blob/main/demo.gif?raw=true)](https://github.com/latimagine/SlicerSpline/blob/main/demo.mp4)
 
-For HR demo, watch the .mp4 video in the root of the project.
+For HR demo, watch the `demo.mp4` video in the root of the project. Sample data (labeled data without volume) is provided in the `data` directory.
 
 ## Reference
 
