@@ -38,6 +38,12 @@ if you need a fast processing, you should increase the voxel size using "resampl
 
 ![alt text](https://github.com/latimagine/SlicerSpline/blob/main/screenshot1.jpg?raw=true)
 
+## Demo
+
+[![Demo CountPages alpha](https://github.com/latimagine/SlicerSpline/blob/main/demo.gif?raw=true)](https://github.com/latimagine/SlicerSpline/blob/main/demo.mp4)
+
+For HR demo, watch the .mp4 video in the root of the project.
+
 ## Reference
 
 For more details about the algorithm we refer you to the paper associated to this module:
