@@ -12,9 +12,9 @@ A Slicer module for intepolation between manual labels.
 
 The module needs tensorflow, scikit,.... that automatically installs them. If you receive an error, push apply again might solve it.
 
-## Requirements
+## Supported System
 
-if you need a fast processing, you should increase the voxel size using "resample scaler volume" tool.
+The module has been tested with Slicer 5.0.3 on Ubuntu 18.04.
 
 ## Install
 
@@ -23,6 +23,8 @@ if you need a fast processing, you should increase the voxel size using "resampl
 * Add the path of the module to "Additional module paths" and restart (It will appear somewhere in module lists in Example)
 
 ## Usage
+
+***NOTE***: If you need a fast processing, you should increase the voxel size using "resample scaler volume" tool.
 
 1- This module needs some manual labels to interpolate them.
 
